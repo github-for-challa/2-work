@@ -1,2 +1,3 @@
 //**this is my 1st sql notes**///
 select ename, magr, hiredate from emp;
+---im creating this comment in the github
